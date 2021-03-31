@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+}.bx{
+    box-shadow: 2px 2px 18px rgba(0,0,0.2);
+}.portal-title{
+    background-color:orange;
+    align-content: center;
+}.card-border{
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.3);
+}
